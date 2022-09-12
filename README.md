@@ -268,7 +268,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ### Classification Report
 
-![image4]()
+![image4](https://github.com/vijay21500269/nn-classification/blob/main/Dp%20img4.png)
 
 ### Confusion Matrix
 
