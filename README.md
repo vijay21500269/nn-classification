@@ -264,7 +264,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image3]()
+![image3](https://github.com/vijay21500269/nn-classification/blob/main/DP%20img3.png)
 
 ### Classification Report
 
