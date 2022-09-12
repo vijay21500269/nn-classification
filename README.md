@@ -272,7 +272,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ### Confusion Matrix
 
-![image5]()
+![image5](https://github.com/vijay21500269/nn-classification/blob/main/Dp%20img5.png)
 
 
 ### New Sample Data Prediction
