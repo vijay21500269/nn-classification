@@ -258,7 +258,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-![image2]()
+![image2](https://github.com/vijay21500269/nn-classification/blob/main/DP%20img2.png)
 
 ## OUTPUT
 
